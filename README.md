@@ -1,4 +1,9 @@
-# Welcome to your Expo app 👋
+This app can be viewed [here](http://portfoliosite.react-calc.s3-website.us-east-2.amazonaws.com).
+
+# Quick Calculator using Expo and Tailwind 👋
+
+![image](https://s3.us-east-2.amazonaws.com/portfoliosite.react-calc/assets/demo-image.png)
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
